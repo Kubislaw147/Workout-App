@@ -1,4 +1,3 @@
-import React from "react";
 import SetField from "./SetField";
 
 interface props {
